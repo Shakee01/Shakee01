@@ -18,7 +18,7 @@ I enjoy exploring how intelligent systems work — and how to keep them secure.
 - Combine programming skills with mechanical knowledge  
 
 📚 Studying at Politechnika, where I explore both the technical and human side of technology  
-📫 Find me on: [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)  
+📫 Find me on: [LinkedIn] [X]
 
 ---
 
