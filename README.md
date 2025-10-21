@@ -1,27 +1,25 @@
-### 👋 Hello there  
-A Mechatronics & AI Enthusiast by day ☼ and a Cybersecurity Explorer by night ☾  
-Master’s student at Politechnika — combining engineering, psychology, and computer science.  
+### 👋 Hey there  
+I'm a master's student passionate about technology, learning step by step how to connect the worlds of **cybersecurity**, **AI**, and **mechanics**.  
+I enjoy exploring how intelligent systems work — and how to keep them secure.  
 
-🔭 Currently focusing on:
-- 🧠 Artificial Intelligence & Machine Learning  
-- 🛡️ Cybersecurity fundamentals & ethical hacking  
-- ⚙️ Automation and intelligent systems  
-- 🌐 Web technologies with PHP, Python & SQL  
+💻 Currently learning about:
+- 🧠 Artificial Intelligence & Machine Learning basics  
+- 🛡️ Cybersecurity and ethical hacking  
+- ☁️ Cloud technologies (AWS, Azure, Google Cloud)  
+- ⚙️ Mechanics and automation systems  
 
-⚙️ I use daily: `.py`, `.php`, `.html`, `.css`, `.js`, `.sql`, `.bash`  
-🧩 Familiar with: Flask, Laravel, TensorFlow, Scikit-learn, MySQL, Linux  
-💡 Interested in: AI-driven security, digital forensics, and educational technologies  
+⚙️ Tools & languages I use: `.py`, `.php`, `.html`, `.css`, `.js`, `.sql`, `.bash`  
+🧩 Getting familiar with: Linux, Docker, Flask, TensorFlow, and MySQL  
+🔍 Interested in: AI-driven security, network protection, and cloud infrastructure  
 
-💬 Ask me about:
-- AI/ML projects and automation  
-- Web app development (PHP + MySQL)  
-- Cybersecurity basics & threat modeling  
-- Integrating technology with learning  
+🌱 My current goals:
+- Build simple AI and cybersecurity-related projects  
+- Learn more about cloud environments and automation  
+- Combine programming skills with mechanical knowledge  
 
-🌱 Currently learning: penetration testing, AI in threat detection  
-🎓 Working on: Master's thesis about the effects of removing homework in Polish schools  
-📫 Reach me: [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)  
+📚 Studying at Politechnika, where I explore both the technical and human side of technology  
+📫 Find me on: [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)  
 
 ---
 
-> “The best defense is understanding how things break.” 🔐
+> “Learning every day — one script, one system, one idea at a time.” 🚀
